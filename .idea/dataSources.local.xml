@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="db04f1c1-6f0b-46ec-9a67-49475b90f5ec" />
+    <data-source name="PostgreSQL - saralproject_Db12@localhost" uuid="5d496478-bc5f-430b-9f43-9331f1aaba7c">
+      <secret-storage>master_key</secret-storage>
+      <user-name>saral</user-name>
+      <schema-pattern>saralproject_Db12.pg_catalog saralproject_Db12.public</schema-pattern>
+      <default-schemas>saralproject_Db12.pg_catalog saralproject_Db12.public</default-schemas>
+    </data-source>
+  </component>
+</project>
